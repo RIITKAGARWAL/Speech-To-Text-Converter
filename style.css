@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #5a5a5a;
+
+}
+textarea{
+    margin-left: 15%;
+    margin-right:15%;
+    width: 60%;
+    padding: 5% ;
+    margin-top: 10%;
+    border-radius: 5%;
+    box-shadow: 5px 3px 33px rgb(96, 57, 212);
+    color: #ccc;
+    font-weight: 600;
+    background-color:rgb(18, 19, 134)
+}
+
+button{
+    margin-top: 5vh;
+    margin-left: 40vw;
+    padding: 8px 12px;
+    border-radius: 15%;
+    color: red;
+    font-weight: 700;
+}
+
+textarea:hover, button:hover{
+    scale: 110%
+}
