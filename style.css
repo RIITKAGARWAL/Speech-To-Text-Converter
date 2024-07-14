@@ -12,15 +12,15 @@ body{
 textarea{
  
   width: 90%;
-  height: 70vh;
+  height: 50vh;
     text-align: center;
     vertical-align: middle;
     
     padding: 5% ;
-    padding-top:45%;
-    margin-top: 10%;
-    border-radius: 5%;
-    box-shadow: 5px 3px 33px rgb(96, 57, 212);
+    
+    margin-top: 20px;
+    border-radius: 50px;
+    box-shadow: 5px 3px 33px rgb(220, 218, 224);
     color: #e3e0eb;
     position:relative;
     left:5vw;
@@ -37,12 +37,12 @@ button{
     font-weight: 700;
 }
 
-textarea:hover, button:hover{
-    scale: 110%
-}
+
 
 h2{
     color: white;
     text-shadow: 3px 3px  green;
     text-align: center;
+    font-size: 3rem;
+    margin-top: 50px;
 }
