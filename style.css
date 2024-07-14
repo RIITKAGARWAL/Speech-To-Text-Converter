@@ -10,15 +10,15 @@ body{
 
 }
 textarea{
-    margin-left: 15%;
-    margin-right:15%;
-    width: 60%;
+ 
+    max-width: 100%;
+    margin: 5px;
     padding: 5% ;
     margin-top: 10%;
     border-radius: 5%;
     box-shadow: 5px 3px 33px rgb(96, 57, 212);
     color: #ccc;
-    font-weight: 600;
+    font-weight: 900;
     background-color:rgb(18, 19, 134)
 }
 
@@ -33,4 +33,10 @@ button{
 
 textarea:hover, button:hover{
     scale: 110%
+}
+
+h2{
+    color: white;
+    text-shadow: 3px 3px  green;
+    text-align: center;
 }
