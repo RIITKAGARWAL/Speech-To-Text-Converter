@@ -6,20 +6,26 @@
 }
 
 body{
-    background-color: #5a5a5a;
+    background-color: dodgerblue;
 
 }
 textarea{
  
-    max-width: 100%;
-    margin: 5px;
+  width: 90%;
+  height: 70vh;
+    text-align: center;
+    vertical-align: middle;
+    
     padding: 5% ;
+    padding-top:45%;
     margin-top: 10%;
     border-radius: 5%;
     box-shadow: 5px 3px 33px rgb(96, 57, 212);
-    color: #ccc;
+    color: #e3e0eb;
+    position:relative;
+    left:5vw;
     font-weight: 900;
-    background-color:rgb(18, 19, 134)
+    background-color:rgb(0, 0, 0)
 }
 
 button{
